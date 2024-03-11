@@ -1,0 +1,99 @@
+header {
+    background-color: rgb(55, 117, 231);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: auto;
+    padding-top: 3%;
+    padding-bottom: 4%;
+    text-align: center;
+    text-size-adjust: 30px;
+}
+
+nav {
+    background-color: rgb(62, 58, 58);
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 18px;
+
+
+}
+
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    margin: bottom 0%;
+
+}
+
+footer {
+    background-color: rgb(56, 117, 231);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+}
+
+#home {
+    font-size: 20px;
+    padding: 30px;
+    text-decoration: underline;
+    color: white;
+    justify-content: center;
+    display: inline;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+
+#about {
+    font-size: 20px;
+    padding: 30px;
+    text-decoration: underline;
+    color: white;
+    justify-content: center;
+    display: inline;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+
+#projects {
+    font-size: 20px;
+    padding: 30px;
+    text-decoration: underline;
+    color: white;
+    justify-content: center;
+    display: inline;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+
+#contact {
+    font-size: 20px;
+    padding: 30px;
+    text-decoration: underline;
+    color: white;
+    justify-content: center;
+    display: inline;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+#project1{
+    color:black;
+    text-decoration: underline
+}
+#project2{
+    color:black;
+    text-decoration: underline
+}
+#project3{
+    color:black;
+    text-decoration: underline
+}
